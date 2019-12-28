@@ -1,0 +1,14 @@
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\bin\Debug\bookingkrwao.exe.config
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.csprojResolveAssemblyReference.cache
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.loginForm.resources
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.Properties.Resources.resources
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.csproj.GenerateResource.Cache
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\bin\Debug\bookingkrwao.exe
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\bin\Debug\bookingkrwao.pdb
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.exe
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.pdb
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.RegistrationForm.resources
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.MainForm.resources
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.ManageClients.resources
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.ManageRooms.resources
+C:\Users\Shahnawaz Irfan\Desktop\bookingkrwao\bookingkrwao\obj\Debug\bookingkrwao.ManageReservation.resources
